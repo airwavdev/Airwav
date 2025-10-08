@@ -1,4 +1,4 @@
-# Hello, I'm Airwav
+# Hello, I'm Airwav (formally known as Amir Alomar)
 
 I'm a student and passionate developer focused on building seamless digital experiences — from intelligent **Discord bots** to sleek, performant **web applications**.
 
